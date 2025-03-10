@@ -113,3 +113,5 @@ The pipeline:
 - External Snowball stemmer binary (for stemming)
 - UDPipe library and models (for lemmatization)
 - Input data in JSON format with "title", "abstract", and "text" fields
+- Download tagger for lemmatization: `curl --remote-name-all https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-3131{/czech-pdt-ud-2.5-191206.udpipe}`
+- Downlad and build stemmer from [URL](https://www.fit.vut.cz/research/product/133/.cs)
