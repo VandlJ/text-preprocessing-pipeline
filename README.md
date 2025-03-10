@@ -40,6 +40,7 @@ This creates two files:
 - `config.json`: The configuration file to use with the program
 - `CONFIG.md`: Documentation of all configuration options
 2. Adjust the configuration
+
 Edit `config.json` to match your requirements. Key options include:
 - Input/output file paths
 - Preprocessing options (lowercase, diacritics, stop words)
