@@ -53,6 +53,3 @@ dist/
 # Ignore environment variable files
 .env
 .env.*
-
-# Ignore data files
-data/
