@@ -4,6 +4,9 @@
 *.pyd
 __pycache__/
 
+# Ignore lemmatization tagger file
+czech-pdt-ud-2.5-191206.udpipe
+
 # Ignore virtual environment directories
 venv/
 env/
