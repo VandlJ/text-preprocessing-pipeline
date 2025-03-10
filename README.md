@@ -51,7 +51,7 @@ Edit `config.json` to match your requirements. Key options include:
 python3 main.py
 ```
 4. View results
-Results will be saved in the output directory (defult: `relusts`) including:
+Results will be saved in the output directory (default: `results`) including:
 - Original vocabulary with frequencies
 - Preprocessed vocabulary
 - Stemmed vocabulary (if enabled)
